@@ -1,6 +1,1 @@
-Minesweeper.class
-MinesweeperFrame$1.class
-MinesweeperFrame.class
-MinesweeperModel.class
-MinesweeperPanel$1.class
-MinesweeperPanel.class
+*.class
